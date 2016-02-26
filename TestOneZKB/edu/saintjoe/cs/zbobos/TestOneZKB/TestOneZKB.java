@@ -4,10 +4,11 @@ public class TestOneZKB {
 
 	public static void main(String[] args) {
 		int count = 1;
-		while (count < 6);
+		do{
 			
 		System.out.println("Zachary Kevin Bobos");
-		while (true);
+		
+		}while (count < 6);
 		
 	}
 
